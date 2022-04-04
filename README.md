@@ -10,12 +10,12 @@
 	it provides results of theater and play campaigns launched throughout the years. The line graph below is of Theater Outcome vs Launch date. 
 	This image provides insight to how many theater campaigns were successful, failed, or canceled based on their launch dates.  
 
-	![Theater_Outcomes_vs_Launch](https://github.com/cvangx286/week1excel_homework/blob/main/Resources/Theater_Outcomes_vs_Launch.png) 
+	![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png) 
 
 	Analysis for plays was also completed using line graph, COUNTIFS functions and percentage calculations. The graph below shows 
 	percentage of play campaign outcomes by their goals. 
 
-	![Outcomes_vs_goals](https://github.com/cvangx286/week1excel_homework/blob/main/Resources/Outcomes_vs_Goals.png)
+	![Outcomes_vs_goals](/Resources/Outcomes_vs_Goals.png)
 
 	A challenge that I encountered was creating the Outcomes vs Goals graph showing the data in percentage format. I couldn't find 
 	the steps to create the graph with percentages as the y axis.  I searched the web for answers and when I could not find the answer, 
